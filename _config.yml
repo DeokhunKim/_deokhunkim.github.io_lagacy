@@ -2,12 +2,12 @@
 
 author: Deokhun Kim
 email: deokhun0312@gmail.com
-twitter_username: twitter
-github_username:  github
-googleplus_username: google
+twitter_username:
+github_username:  DeokhunKim
+googleplus_username: 
 
 head-title: 기록은 언제나 옳다
-title: It is always right to archive
+title: 기록은 언제나 옳다 - It is always right to archive
 
 baseurl: "/"    # the subpath of your site, "/blog"
 url: "https://deokhunkim.github.io"
@@ -15,8 +15,8 @@ url: "https://deokhunkim.github.io"
 # footer 
 description: "I know that what I'm doing looks stupid, but I'm a big boy and really want to do this."
 
-favo: "春梦随云散，飞花逐水流"
-descrpt: "“巧者劳而智者忧，无能者无所求，饱食而遨游，泛若不系之舟”  ——《南华经》"
+favo: ""
+descrpt: ""
 
 
 #
@@ -51,12 +51,12 @@ gems: [jekyll-paginate, jekyll-last-modified-at, jemoji]
 
 # Color
 # All css class, see: http://materializecss.com/color.html
-header-color: "indigo lighten-1"
-head-theme-color: "#5c6bc0"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
+header-color: "red lighten-1"
+head-theme-color: "#ef5350"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
 
-footer-color: "indigo lighten-1"
-footer-button-color: "indigo lighten-2"
-footer-link-color: "red-text text-accent-1"
+footer-color: "red lighten-1"
+footer-button-color: "red lighten-2"
+footer-link-color: "teal lighten-1"
 
 share-button-color: "pink"
 share-button-small-color: ""
