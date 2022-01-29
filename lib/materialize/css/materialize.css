@@ -7002,11 +7002,11 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .side-nav a.btn:hover, .side-nav a.btn-large:hover, .side-nav a.btn-large:hover {
-  background-color: #2bbbad;
+  background-color: #ef9a9a;
 }
 
 .side-nav a.btn-floating:hover {
-  background-color: #26a69a;
+  background-color: #ef5350;
 }
 
 .side-nav li > a > i,
