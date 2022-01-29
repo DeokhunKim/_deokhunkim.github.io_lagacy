@@ -4,7 +4,7 @@
 - id: tab-test
   name: test
   fp: tab/test.html
-  disabled: false
+  disabled: true
 
 - id: tab-test1
   name: diasble-test
@@ -12,11 +12,11 @@
   disabled: true
   
 - id: tab-1
-  name: md-page name
-  fp: tab/md-page.md
+  name: My Developer Skill
+  fp: tab/MyDeveloperSkill.html
   disabled: false
 
 - id: tab-2
   name: html-file name
   fp: tab/html-file.html
-  disabled: false
+  disabled: true
