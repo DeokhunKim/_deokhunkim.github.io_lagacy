@@ -127,10 +127,10 @@ a.reversefootnote {
     font-size: 1.5em;
     margin-bottom: 10px;
 
-    color: $pink;
+    color: $blue; //메인의 포스팅 색
 
     &:hover {
-        color: $blue;
+        color: $pink; //메인의 포스팅 색 마우스
     }
 
     @media #{$small-and-down} {
