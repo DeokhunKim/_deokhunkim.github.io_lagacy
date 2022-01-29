@@ -100,7 +100,7 @@ li {
 
 a {
     //color: darken($blue, 10%);
-    color: #00BCD4;
+    color: #00BCD4; // 카테고리에서 평소때 색
 
     text-decoration: none;
 
@@ -109,8 +109,7 @@ a {
     }
 
     &:hover {
-        //color: $pink;
-        color: #00BCD4
+        color: $pink; // 카테고리에서 커서 
         //text-decoration: underline;
     }
 }
