@@ -10,3 +10,13 @@
   name: diasble-test
   fp: tab/test1.html
   disabled: true
+  
+- id: tab-1
+  name: md-page name
+  fp: tab/md-page.md
+  disabled: false
+
+- id: tab-2
+  name: html-file name
+  fp: tab/html-file.html
+  disabled: false
