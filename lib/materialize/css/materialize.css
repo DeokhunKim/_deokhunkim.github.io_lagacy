@@ -108,7 +108,7 @@
 }
 
 .red.lighten-3 {
-  background-color: #EF9A9A !important;
+  background-color: #EF9A9A !important;ef5350
 }
 
 .red-text.text-lighten-3 {
@@ -4986,7 +4986,7 @@ small {
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #ef5350; 
+  background-color: #ffcdd2; 
   text-align: center;
   letter-spacing: .5px;
   transition: .2s ease-out;
@@ -4994,7 +4994,7 @@ small {
 }
 
 .btn:hover, .btn-large:hover {
-  background-color: #ef9a9a;
+  background-color: #ffebee;
 }
 
 .btn-floating {
