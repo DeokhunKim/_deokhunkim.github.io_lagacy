@@ -1,22 +1,7 @@
 # **NOTE**
 # 1. Empty strings are truthy.
 
-- id: tab-test
-  name: test
-  fp: tab/test.html
-  disabled: true
-
-- id: tab-test1
-  name: diasble-test
-  fp: tab/test1.html
-  disabled: true
-  
 - id: tab-1
   name: My Developer Skill
   fp: tab/MyDeveloperSkill.html
   disabled: false
-
-- id: tab-2
-  name: html-file name
-  fp: tab/html-file.html
-  disabled: true
