@@ -4,10 +4,6 @@
 - id: tab-1
   name: My Developer Skill
   fp: tab/MyDeveloperSkill.html
-  disabled: false
-
-- id: tab-2
-  name: md-page
-  fp: tab/md-page.md
   disabled: true
+
 
