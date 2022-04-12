@@ -164,6 +164,8 @@ GalaxyUser일 경우 GalaxyUserFactory를 호출한다.
 #### Test 결과
 <img src="/assets/postimg/2022_04/AbstractFactory002.png" />
 
+<br/>
+
 #### 도식
 <img src="/assets/postimg/2022_04/AbstractFactory001.svg" />
 
