@@ -2,8 +2,12 @@
 # 1. Empty strings are truthy.
 
 - id: tab-1
-  name: My Developer Skill
-  fp: tab/MyDeveloperSkill.html
-  disabled: true
+  name: Project - Web Messenger
+  fp: tab/Web-Messenger.html
+  disabled: false
+- id: tab-2
+  name: Project - Glossary Wiki
+  fp: tab/GlossaryWiki.html
+  disabled: false
 
 

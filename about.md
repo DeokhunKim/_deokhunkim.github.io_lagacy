@@ -17,8 +17,10 @@ permalink: /about/
 
 
 ## SKILL.
-Language: JAVA, C++, MSSQL
-Web Development: Spring Framework
+Language: JAVA, KOTLIN, C++, MSSQL
+
+Web Development: Spring Framework,
+
 ETC: Git, svn, Jira, Confluence
 
 ## EDUCATION.
